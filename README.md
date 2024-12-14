@@ -34,7 +34,6 @@ For more details, refer to the original paper: [Model poisoning attack in differ
 ## Usage
 
 To run the MSA simulation, use the following command:
-	```bash
 
 	python main_fed_cifar_cnn.py
 
@@ -53,7 +52,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments
 Original implementation: https://github.com/shaoxiongji/federated-learning
 
-Original paper: Model poisoning attack in differential privacy-based federated learning
+Original paper: [Model poisoning attack in differential privacy-based federated learning](https://www.sciencedirect.com/science/article/abs/pii/S0020025523002141).
 
 ## Citation
 
